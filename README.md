@@ -23,6 +23,7 @@ The test cases are stored in JSON and dynamically consumed by the tests to reduc
 ├── README.md
 ├── tests/
 │ ├── taskValidation.spec.ts # main data-driven test suite
+├── data/
 │ └── testCases.json # test data
 └── utils/
 └── login.ts # reusable login helper
@@ -31,7 +32,7 @@ The test cases are stored in JSON and dynamically consumed by the tests to reduc
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repo
--- git clone https://github.com/<your-username>/<repo-name>.git
+-- git clone https://github.com/saikeerthanabala-web/my-playwright-project
 -- cd my-playwright-project
 
 ### 2. Install dependencies
