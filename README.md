@@ -31,7 +31,7 @@ The test cases are stored in JSON and dynamically consumed by the tests to reduc
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repo
--- git clone https://github.com/<your-username>/<repo-name>.git
+-- git clone https://github.com/saikeerthanabala-web/my-playwright-project
 -- cd <repo-name>
 
 ### 2. Install dependencies
