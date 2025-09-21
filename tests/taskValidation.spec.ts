@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 import { login } from '../utils/login';
-import testCases from '../node_modules/data/testCases.json';
+import testCases from '../data/testCases.json';
 
 test.describe('Task Validation Tests', () => {
   for (const testCase of testCases) {
