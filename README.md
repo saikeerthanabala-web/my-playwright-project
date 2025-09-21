@@ -32,7 +32,7 @@ The test cases are stored in JSON and dynamically consumed by the tests to reduc
 
 ### 1. Clone the repo
 -- git clone https://github.com/<your-username>/<repo-name>.git
--- cd <repo-name>
+-- cd my-playwright-project
 
 ### 2. Install dependencies
 -- npm install
